@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_example.xml",
+        "source": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\src\\main\\res\\layout\\fragment_example.xml"
+    },
+    {
+        "merged": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\work\\MyTestDemo\\Math\\LaTeXMath\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

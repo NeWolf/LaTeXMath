@@ -1,0 +1,7 @@
+#Sat Apr 01 13:36:12 CST 2017
+base.0=H\:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_43c071e28fc64151330cfbc483155fc5b3e20088
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_98d7b6fc9424f84648e49e6c3dd3192990d49fc9\\classes.dex
+base.1=H\:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_98d7b6fc9424f84648e49e6c3dd3192990d49fc9
+file.0=H\:\\work\\MyTestDemo\\Math\\LaTeXMath\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_43c071e28fc64151330cfbc483155fc5b3e20088\\classes.dex
